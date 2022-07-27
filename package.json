@@ -1,6 +1,7 @@
 {
   "name": "classting-front-project",
   "version": "0.1.0",
+  "homepage": "https://choseunghei.github.io/classting-front-project/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -10,6 +11,7 @@
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
     "chart.js": "^3.8.2",
+    "gh-pages": "^4.0.0",
     "node-sass": "^7.0.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.4.0",
