@@ -1,0 +1,58 @@
+// Your variable overrides
+// $bg-array: (
+//   1: #f2d7d9,
+//   2: #d3cedf,
+//   3: #9cb4cc,
+//   4: #748da6,
+// );
+// $color: map-get($bg-array, random(5) - 1);
+// $body-bg: $color;
+
+// Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap';
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+  height: 100vh;
+}
+.title {
+  color: #000;
+  font-family: 'Raleway', sans-serif;
+  font-size: 62px;
+  font-weight: 800;
+  line-height: 72px;
+  margin: 0 0 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.sub-title {
+  color: #000;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 36px;
+  text-align: center;
+}
+
+.contents {
+  color: #f8f8f8;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+a {
+  color: #c8c8c8;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #1c1c1c;
+  text-decoration: underline;
+}
