@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/classting-front-project/static/css/main.d648ed6f.css",
-    "main.js": "/classting-front-project/static/js/main.3168ae95.js",
+    "main.css": "/classting-front-project/static/css/main.5bb9aee8.css",
+    "main.js": "/classting-front-project/static/js/main.9ed433aa.js",
     "static/js/787.006daeb6.chunk.js": "/classting-front-project/static/js/787.006daeb6.chunk.js",
     "index.html": "/classting-front-project/index.html",
-    "main.d648ed6f.css.map": "/classting-front-project/static/css/main.d648ed6f.css.map",
-    "main.3168ae95.js.map": "/classting-front-project/static/js/main.3168ae95.js.map",
+    "main.5bb9aee8.css.map": "/classting-front-project/static/css/main.5bb9aee8.css.map",
+    "main.9ed433aa.js.map": "/classting-front-project/static/js/main.9ed433aa.js.map",
     "787.006daeb6.chunk.js.map": "/classting-front-project/static/js/787.006daeb6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d648ed6f.css",
-    "static/js/main.3168ae95.js"
+    "static/css/main.5bb9aee8.css",
+    "static/js/main.9ed433aa.js"
   ]
 }
