@@ -56,5 +56,9 @@ export const Chart = () => {
     ],
   };
 
-  return <Bar options={options} data={data} />;
+  return (
+    <div style={{ width: '70%' }}>
+      <Bar options={options} data={data} />
+    </div>
+  );
 };

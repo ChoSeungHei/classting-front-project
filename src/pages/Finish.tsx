@@ -8,7 +8,7 @@ export const Finish = () => {
   const navigate = useNavigate();
   return (
     <div className="container">
-      <Card className="quiz-body">
+      <Card className="finish-body">
         <Card.Header as="h5">Result</Card.Header>
         <Card.Body>
           <Card.Title>총 소요시간</Card.Title>

@@ -97,7 +97,7 @@ export const Quiz = () => {
       'time',
       Math.floor(timeElapsed / 1000).toString() +
         '.' +
-        Math.floor(timeElapsed / 1000).toString(),
+        (timeElapsed % 1000) / 10,
     );
 
     navigate('/finish');
