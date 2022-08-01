@@ -42,7 +42,7 @@
 
 3. 기타 라이브러리  
    a. axios  
-    - ajax 통신을 위해 사용  
+    - api 통신을 위해 사용한 http통신 라이브러리
    b. chart.js [link](https://www.chartjs.org/)  
     - 정오답 비율을 보여주기 위해 사용
    c. react-loading [link](https://www.npmjs.com/package/react-loading)  
