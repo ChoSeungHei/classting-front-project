@@ -4,9 +4,6 @@
   "homepage": "https://choseunghei.github.io/classting-front-project/",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
-    "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
@@ -51,6 +48,10 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/dom": "^8.16.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.3.0",
     "@types/lodash": "^4.14.182",
     "@types/node": "^18.6.1",
     "@types/react": "^18.0.15",
@@ -61,6 +62,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.30.1",
+    "instead": "^1.0.3",
     "prettier": "2.7.1"
   }
 }
